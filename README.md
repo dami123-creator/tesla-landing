@@ -1,5 +1,7 @@
 # Astro Starter Kit: Basics
 
+
+![Alt text](image.png)
 ```
 npm create astro@latest -- --template basics
 ```
